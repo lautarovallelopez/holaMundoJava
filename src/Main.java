@@ -12,5 +12,7 @@ public class Main {
         System.out.print("Ingrese un valor numerico: ");
         int numero = Integer.parseInt(scanner.nextLine());
         System.out.println("\nEl numero ingresado por teclado es: " + numero );
+
+        scanner.close();
     }
 }
