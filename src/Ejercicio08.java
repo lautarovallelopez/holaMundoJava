@@ -7,7 +7,7 @@ indique si está en edad de jubilarse. Ayuda: Las mujeres se jubilan con 60
 años o más. Los hombres se jubilan con 65 años o más. Ejemplo:
 Ingresa 62 y 'M', debe devolver “No se jubila”.
 * */
-public class Ejercicio8 {
+public class Ejercicio08 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int edad;

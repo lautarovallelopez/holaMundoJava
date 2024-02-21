@@ -6,7 +6,7 @@ perímetro = 31,41592654 y superficie = 78,53981634.
 */
 import java.util.Scanner;
 
-public class Ejercicio5 {
+public class Ejercicio05 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int radio;

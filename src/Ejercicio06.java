@@ -7,7 +7,7 @@ donde hipotenusa = √(𝑏𝑎𝑠𝑒2 + 𝑎𝑙𝑡𝑢𝑟𝑎2)
 * */
 import java.util.Scanner;
 
-public class Ejercicio6 {
+public class Ejercicio06 {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int lado1;

@@ -5,7 +5,7 @@ la computadora indique si el mayor es divisible por el menor. Ejemplo:
 Ingresa 4 y 28, debe imprimir “28 es divisible por 4”. Se deberá validar
 que los números ingresados se encuentren entre 0 y 100.
 * */
-public class ejercicio10 {
+public class Ejercicio10 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int numero1;

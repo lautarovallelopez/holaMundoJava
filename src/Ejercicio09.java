@@ -6,7 +6,7 @@ computadora indique si alcanzan las sillas, en caso contrario, indique
 cuántas faltan para que todo el alumnado tenga asiento.
 
 * */
-public class Ejercicio9 {
+public class Ejercicio09 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int cantidadAlumnos;
