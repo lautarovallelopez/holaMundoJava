@@ -1,5 +1,16 @@
 import java.util.Scanner;
-
+/*
+* )Desarrollar un algoritmo que permita ingresar los lados A, B y C de un
+triángulo. La computadora informa si el triángulo es o no válido. En caso
+afirmativo, además informa si es equilátero, isósceles o escaleno. Ayuda:
+según el teorema de desigualdad triangular, un triángulo es válido si se
+cumple que cada uno de los lados no puede ser más largo que la suma
+de los otros dos. Un triángulo equilátero es aquel que tiene sus tres lados
+iguales. Un triángulo isósceles es aquel que tiene dos de sus lados
+iguales. Un triángulo escaleno es aquel que tiene sus tres lados
+desiguales. Ejemplo: Se ingresa un 3, 4 y 5, la computadora muestra:
+“Es un triángulo escaleno”.
+* */
 public class Ejercicio11 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
